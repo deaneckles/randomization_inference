@@ -58,3 +58,5 @@ target/
 
 # iPython
 .ipynb_checkpoints
+
+pseudo_facebook.tsv
